@@ -1,0 +1,11 @@
+# Ignore build and VS files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.tmp
+*.vspscc
+*.vssscc
